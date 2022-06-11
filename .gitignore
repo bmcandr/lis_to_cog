@@ -1,0 +1,10 @@
+.DS_Store
+.ipynb_checkpoints
+__pycache__
+outdata
+data
+*.tif
+*.TIF
+*.nc
+*.xml
+*.html
